@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer-demo",
+  "version": "1.0.0",
+  "description": "NodeMailer demo : Send an email through Node.js server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaspreetRFSingh/NodeMailer-Demo.git"
+  },
+  "author": "Jaspreet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaspreetRFSingh/NodeMailer-Demo/issues"
+  },
+  "homepage": "https://github.com/JaspreetRFSingh/NodeMailer-Demo#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "nodemon": "^2.0.2"
+  }
+}

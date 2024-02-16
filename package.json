@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JaspreetRFSingh/NodeMailer-Demo#readme",
   "dependencies": {
-    "nodemailer": "^6.4.16",
-    "nodemon": "^2.0.22"
+    "nodemailer": "^6.9.9",
+    "nodemon": "^2.0.2"
   }
 }

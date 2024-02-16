@@ -18,6 +18,6 @@
   "homepage": "https://github.com/JaspreetRFSingh/NodeMailer-Demo#readme",
   "dependencies": {
     "nodemailer": "^6.4.16",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.22"
   }
 }
